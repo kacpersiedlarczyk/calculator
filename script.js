@@ -1,6 +1,6 @@
 let operator;
-let currentNumber;
-let previousNumber;
+let currentOperand;
+let previousOperand;
 
 function add(a, b) {
     return a + b;
